@@ -1,0 +1,6 @@
+*.lib
+*.lib~
+*.gbk
+*.txt
+*.exe
+./row
